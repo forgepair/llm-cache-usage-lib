@@ -113,7 +113,6 @@ Sonnet 5 comparison above against real numbers.
   contributing fixes directly upstream to the affected projects (the
   latter has more direct impact but doesn't prevent the next unrelated
   project from hitting the same bug independently).
-- No CI yet.
 - Not yet published to PyPI.
 
 ## License
